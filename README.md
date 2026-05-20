@@ -1,6 +1,6 @@
 C# Övning 1 - Personalregister
 ==============================
-Inlämning Instruktioner. Finns även en snabbguide att följa under C-Sharp => Files => GIT
+#### Inlämning Instruktioner. Finns även en snabbguide att följa under C-Sharp => Files => GIT
 
 1. Add to source control nere i högra hörnet, välj git, Alternativt Git menyn Create Git
 Repository
@@ -14,7 +14,9 @@ kan du hoppa över resten. Annars följ nästa steg.
 8. Kontrollera enligt punkt 4.
 9. Klart
 Se till att skicka upp koden med god marginal innan tiden är ute!
-Bakgrund
+
+#### Bakgrund
+
 Ett litet företag i restaurangbranschen kontaktar dig för att utveckla ett litet
 personalregister. De har endast två krav:
 1. Registret skall kunna ta emot och lagra anställda med namn och lön. (via inmatning
@@ -26,8 +28,10 @@ Uppgift 2
 Vilka attribut och metoder bör ingå i dessa klasser?
 Uppgift 3
 Skriv programmet
+
 Försök göra programmet så robust och framtidssäkert som möjligt!
-Ni får gärna lägga på extra funktionalitet!
-Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir
+
+Ni får gärna lägga på extra funktionalitet!Bonus för att implementera test! (men inte på bekostnad av att den andra koden blir
 lidande)
+
 Koden ska ligga uppe på GIT absolut senast 17.00. Lycka till!
